@@ -105,7 +105,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Rasyairgiawan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Rasyairgiawan&icon=5&color=6" />
-</p>

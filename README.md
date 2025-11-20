@@ -1,6 +1,6 @@
 <!-- NEON CYBERPUNK HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F0FF&center=true&vCenter=true&width=600&lines=HELLO+I'M+MOCH+RASYA+IRGIAWAN;WELCOME+TO+MY+CYBER+SPACE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F0FF&center=true&vCenter=true&width=600&lines=HELLO+I'M+MOCH+RASYA+IRGIAWAN" />
 </p>
 
 # 💫 About Me:

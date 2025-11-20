@@ -56,9 +56,9 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rasyairgiawan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rasyairgiawan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasyairgiawan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Rasyairgiawan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Rasyairgiawan&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasyairgiawan&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
@@ -86,13 +86,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rasyairgiawan&theme=cyberpunk&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rasyairgiawan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Rasyairgiawan&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasyairgiawan&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 

@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F0FF&center=true&vCenter=true&width=600&lines=HELLO+I'M+MOCH+RASYA+IRGIAWAN" />
 </p>
 
-# 💫 About Me:
-HELLO, I'M MOCH. RASYA IRGIAWAN  
-Explorer in Tech, Code, and Digital Creativity.
-
 ---
 
 ## 🌐 Socials:

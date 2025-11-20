@@ -67,16 +67,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/Rasyairgiawan/Rasyairgiawan/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 🧊 3D Contribution Calendar
-![3D](./profile-3d-contrib/profile-night-rainbow.svg)
-
----
-
 ## 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=Rasyairgiawan&style=for-the-badge&color=orange)
 

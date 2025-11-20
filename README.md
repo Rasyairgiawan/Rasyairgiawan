@@ -67,11 +67,6 @@
 
 ---
 
-## 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=Rasyairgiawan&style=for-the-badge&color=orange)
-
----
-
 # 🏆 GitHub Trophies (Neon Cyberpunk)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rasyairgiawan&theme=cyberpunk&no-frame=true&no-bg=true&row=1&column=6" />
@@ -86,5 +81,11 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rasyairgiawan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=Rasyairgiawan&style=for-the-badge&color=orange)
 
 ---

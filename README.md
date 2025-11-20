@@ -68,9 +68,7 @@
 ---
 
 # 🏆 GitHub Trophies (Neon Cyberpunk)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rasyairgiawan&theme=cyberpunk&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=MochRasyaIrgiawan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
